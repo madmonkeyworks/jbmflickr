@@ -43,6 +43,7 @@ See examples and all available options below...
 
  
 # DISPLAY IMAGES
+<pre>
 <div class="jbmflickr"
     jbmflickr-userid="xxxxxxxx"
     jbmflickr-initial_load="1"
@@ -50,6 +51,7 @@ See examples and all available options below...
     jbmflickr-per_page="8"
     jbmflickr-per_row="8"
 ></div>
+</pre>
 
  
 # SEARCH BY KEYWORDS OR TAGS
