@@ -1,5 +1,19 @@
 # JBMFLICKR - JQUERY PLUGIN
 
+# AUTHOR
+Name: Jan B Mwesigwa
+URL: https://madmonkey.works
+
+
+
+# DEMO
+
+http://www.seven-m.com/demos/jbmflickr/
+
+http://www.amicafoundation.com/en/collection.html
+
+
+
 # DESCRIPTION
 
 Jbmflickr is a jQuery plugin that pulls images hosted on flickr and shows them in a lightbox-style gallery or in a google map. 
