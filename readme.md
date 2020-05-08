@@ -54,11 +54,14 @@ See examples and all available options below...
 ```
  
 ### SEARCH BY KEYWORDS OR TAGS
+```html
 <input type="text" class="jbmflickr-search-field" size="50" placeholder="Enter search text and hit enter"/>
+```
 
  
 
 ### USE TAG-CLOUD
+```html
 <div class="jbmflickr-tag-cloud">
     <span>tags: </span>
     <a href="#animal">animal</a>
@@ -66,18 +69,21 @@ See examples and all available options below...
     <a href="#celebration">celebration</a>
     <a href="#playing">playing</a>
 </div>
-
+```
 
 ### DISPLAY GEO TAGGED IMAGES IN GOOGLE MAP 
+```html
 <div class="jbmflickrmap" style="height:400px; width: 100%;"
     jbmflickrmap-userid="xxxxxx"
     jbmflickrmap-zoom="2"
 ></div>
-
+```
  
 
 ### SEARCH BY GOOGLE LOCATION
+```html
 <input type="text" class="jbmflickrmap-location" placeholder="Enter a location (country, city), e.g. 'Netherlands'" rel="myMap" />
+```
 
 The map zooms to the location entered in the field. If 'rel' attribute is defined, only the map with such 'id' will get zoomed.
 
